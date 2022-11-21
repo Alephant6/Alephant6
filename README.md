@@ -1,8 +1,16 @@
 ## Public Links
-1. Academic Resume: https://olifant.netlify.app/  -- [Github Repo.](https://github.com/Alephant6/starter-hugo-academic)
-2. Graduation Projection: https://ale-grad.vercel.app/   -- [Github Repo.](https://github.com/Alephant6/nuist-graduation-projection)
-3. RSS: https://ale-rss.netlify.app  -- [Github Repo.](https://github.com/Alephant6/bubo-rss)
-4. Personal Ideas: https://alesblog.netlify.app  -- [Github Repo.](https://github.com/Alephant6/nextjs-blog-theme)
+1. Academic Resume:   -- [Github Repo.](https://github.com/Alephant6/starter-hugo-academic)
+  1. https://olifant.netlify.app/
+  2. https://olifantqiang.cn/
+1. Graduation Projection:  -- [Github Repo.](https://github.com/Alephant6/nuist-graduation-projection)
+  1. https://ale-grad.vercel.app/
+  2. https://grad.ale.cab/
+1. RSS:   -- [Github Repo.](https://github.com/Alephant6/bubo-rss)
+  1. https://ale-rss.netlify.app/
+  2. https://rss.ale.cab/
+1. Personal Ideas:  -- [Github Repo.](https://github.com/Alephant6/nextjs-blog-theme)
+  1. https://alesblog.netlify.app
+  2. https://blog.ale.cab/
 
 
 
