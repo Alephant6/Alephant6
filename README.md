@@ -1,4 +1,5 @@
 ## Public Links
+> Github: https://github.com/Alephant6
 ### Academic Resume
 > [Github Repo.](https://github.com/Alephant6/starter-hugo-academic)
 1. https://olifant.netlify.app/
