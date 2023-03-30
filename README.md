@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Alephant6" /> </div>
 # Public Links
 > Github: https://github.com/Alephant6
 ## Academic Resume
